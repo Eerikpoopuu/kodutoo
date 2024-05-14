@@ -1,0 +1,6 @@
+@kodutoo_HostAddress = http://localhost:5028
+
+GET {{kodutoo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
